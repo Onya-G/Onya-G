@@ -23,7 +23,7 @@
 <img align='left' alt='SQL' width='32px' 
       src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'/>
 <br><br>
-#### My projects:
+#### My projects
 - <a href='https://github.com/Onya-G/orders_api'>API for online-shop</a>
 - <a href='https://github.com/Onya-G/VKinder'>Bot for a dating service</a>
 - <a href='https://github.com/Onya-G/Backup_to_Yadisk'>Backup to a cloud</a>
@@ -36,7 +36,7 @@
 - <a href='https://github.com/Onya-G/my_certificates/blob/master/DB.pdf'>Databases</a>
 - <a href='https://github.com/Onya-G/my_certificates/blob/master/HTML_CSS.pdf'>HTML and CSS</a>
 
-#### My contacts:
+#### My contacts
 <ul>
       <li><a href='https://t.me/OnyaG'><img align='left' alt='t.me' width='20px' 
       src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png'/></a></li>
